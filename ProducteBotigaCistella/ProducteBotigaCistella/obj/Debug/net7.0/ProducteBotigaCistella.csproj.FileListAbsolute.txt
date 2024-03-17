@@ -1,0 +1,14 @@
+C:\M03\ProducteBotigaCistella\ProducteBotigaCistella\bin\Debug\net7.0\ProducteBotigaCistella.exe
+C:\M03\ProducteBotigaCistella\ProducteBotigaCistella\bin\Debug\net7.0\ProducteBotigaCistella.deps.json
+C:\M03\ProducteBotigaCistella\ProducteBotigaCistella\bin\Debug\net7.0\ProducteBotigaCistella.runtimeconfig.json
+C:\M03\ProducteBotigaCistella\ProducteBotigaCistella\bin\Debug\net7.0\ProducteBotigaCistella.dll
+C:\M03\ProducteBotigaCistella\ProducteBotigaCistella\bin\Debug\net7.0\ProducteBotigaCistella.pdb
+C:\M03\ProducteBotigaCistella\ProducteBotigaCistella\obj\Debug\net7.0\ProducteBotigaCistella.GeneratedMSBuildEditorConfig.editorconfig
+C:\M03\ProducteBotigaCistella\ProducteBotigaCistella\obj\Debug\net7.0\ProducteBotigaCistella.AssemblyInfoInputs.cache
+C:\M03\ProducteBotigaCistella\ProducteBotigaCistella\obj\Debug\net7.0\ProducteBotigaCistella.AssemblyInfo.cs
+C:\M03\ProducteBotigaCistella\ProducteBotigaCistella\obj\Debug\net7.0\ProducteBotigaCistella.csproj.CoreCompileInputs.cache
+C:\M03\ProducteBotigaCistella\ProducteBotigaCistella\obj\Debug\net7.0\ProducteBotigaCistella.dll
+C:\M03\ProducteBotigaCistella\ProducteBotigaCistella\obj\Debug\net7.0\refint\ProducteBotigaCistella.dll
+C:\M03\ProducteBotigaCistella\ProducteBotigaCistella\obj\Debug\net7.0\ProducteBotigaCistella.pdb
+C:\M03\ProducteBotigaCistella\ProducteBotigaCistella\obj\Debug\net7.0\ProducteBotigaCistella.genruntimeconfig.cache
+C:\M03\ProducteBotigaCistella\ProducteBotigaCistella\obj\Debug\net7.0\ref\ProducteBotigaCistella.dll
